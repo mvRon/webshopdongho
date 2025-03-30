@@ -6,3 +6,7 @@ TRƯƠNG HOÀI KHANG - DỊCH VỤ
 TRẦN NGỌC PHƯỚC - SẢN PHẨM
 LÊ TRƯỜNG TIẾN - LIÊN HỆ
 LÝ ĐỨC HUY - ĐĂNG KÝ/ĐĂNG NHẬP
+
+Languages: PHP
+Framework: Laravel
+Database: MySQL
